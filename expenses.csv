@@ -1,0 +1,354 @@
+Date,Category,Description,Amount
+23-11-2024,Food,Snacks,31.98
+15-12-2024,Food,Dinner,8.09
+04-12-2024,Healthcare,Medicine,138.26
+19-12-2024,Shopping,Electronics,252.01
+05-12-2024,Food,Lunch,34.75
+18-12-2024,Bills,Electricity bill,44.34
+03-12-2024,Bills,Electricity bill,47.69
+05-12-2024,Entertainment,Concert,28.09
+07-12-2024,Shopping,Household items,236.65
+04-12-2024,Entertainment,Movie tickets,89.37
+01-01-2025,Bills,Phone bill,190.49
+16-11-2024,Entertainment,Concert,84.05
+11-11-2024,Education,Books,138.42
+25-10-2024,Shopping,Gifts,160.66
+25-12-2024,Education,Online course,38.94
+14-12-2024,Transport,Fuel,15.85
+11-10-2024,Food,Lunch,26.2
+24-11-2024,Entertainment,Movie tickets,41.58
+14-11-2024,Food,Dinner,34.68
+02-11-2024,Bills,Internet bill,183.52
+29-11-2024,Healthcare,Doctor visit,21.71
+10-10-2024,Food,Groceries,12.16
+27-12-2024,Bills,Internet bill,50.92
+18-11-2024,Education,School supplies,120.36
+11-12-2024,Healthcare,Doctor visit,65.58
+19-10-2024,Transport,Parking,15.81
+21-11-2024,Food,Groceries,43.84
+14-11-2024,Entertainment,Streaming subscription,91.71
+20-11-2024,Healthcare,Health checkup,44.49
+29-11-2024,Shopping,Clothing,68.82
+19-10-2024,Food,Groceries,30.52
+13-10-2024,Entertainment,Concert,24.57
+30-11-2024,Entertainment,Games,56.38
+10-10-2024,Entertainment,Streaming subscription,43.91
+30-11-2024,Food,Coffee,20.77
+03-12-2024,Entertainment,Games,98.8
+07-10-2024,Transport,Taxi,7.77
+01-11-2024,Transport,Taxi,7.61
+31-10-2024,Healthcare,Medicine,131.19
+04-11-2024,Healthcare,Doctor visit,109.71
+09-10-2024,Transport,Parking,18.2
+20-11-2024,Education,Books,94.23
+02-11-2024,Entertainment,Movie tickets,21.98
+24-11-2024,Food,Groceries,48.19
+24-12-2024,Bills,Internet bill,108.83
+21-11-2024,Healthcare,Health checkup,83.74
+29-12-2024,Education,Online course,136.83
+17-10-2024,Food,Snacks,42.29
+08-12-2024,Transport,Parking,16.06
+18-11-2024,Education,Books,72.3
+23-10-2024,Entertainment,Concert,85.58
+17-12-2024,Transport,Fuel,8.95
+13-10-2024,Healthcare,Medicine,64.29
+12-10-2024,Transport,Taxi,4.27
+29-10-2024,Healthcare,Health checkup,111.8
+05-12-2024,Food,Dinner,33.62
+13-11-2024,Transport,Taxi,15.22
+19-11-2024,Entertainment,Streaming subscription,54.13
+13-11-2024,Entertainment,Streaming subscription,12.83
+27-10-2024,Shopping,Electronics,124.07
+10-10-2024,Bills,Phone bill,85.53
+24-11-2024,Education,Online course,30.69
+14-12-2024,Shopping,Gifts,145.96
+30-11-2024,Healthcare,Health checkup,90.01
+28-12-2024,Healthcare,Health checkup,124.38
+04-11-2024,Entertainment,Games,53.78
+02-01-2025,Entertainment,Concert,49.08
+18-12-2024,Healthcare,Health checkup,95.41
+15-12-2024,Food,Dinner,49.27
+16-10-2024,Food,Dinner,37.02
+26-12-2024,Food,Dinner,16.86
+06-12-2024,Healthcare,Medicine,135.3
+05-12-2024,Food,Coffee,49.18
+24-10-2024,Transport,Taxi,17.37
+29-12-2024,Bills,Internet bill,44.94
+29-10-2024,Entertainment,Games,81.09
+21-12-2024,Education,Online course,50.87
+06-10-2024,Shopping,Gifts,178.71
+22-10-2024,Healthcare,Health checkup,29.76
+12-11-2024,Healthcare,Medicine,69.17
+20-12-2024,Healthcare,Health checkup,44.26
+25-12-2024,Transport,Bus fare,10.64
+15-11-2024,Entertainment,Concert,24.05
+08-10-2024,Shopping,Clothing,46.39
+07-10-2024,Transport,Taxi,18.1
+06-12-2024,Transport,Bus fare,16.85
+11-11-2024,Transport,Fuel,19.61
+18-12-2024,Entertainment,Movie tickets,64.66
+05-12-2024,Food,Lunch,14.23
+05-11-2024,Shopping,Clothing,42.2
+11-10-2024,Education,School supplies,129.35
+21-10-2024,Transport,Taxi,12.16
+13-10-2024,Education,Online course,62.28
+06-12-2024,Education,School supplies,70.78
+29-12-2024,Bills,Internet bill,144.33
+15-12-2024,Shopping,Electronics,121.29
+07-10-2024,Transport,Fuel,2.25
+12-11-2024,Food,Dinner,34.38
+30-12-2024,Education,Online course,85.9
+26-11-2024,Shopping,Household items,279.8
+03-11-2024,Bills,Phone bill,99.52
+13-11-2024,Entertainment,Streaming subscription,44.05
+16-12-2024,Bills,Water bill,31.09
+20-11-2024,Entertainment,Movie tickets,87.17
+30-11-2024,Entertainment,Movie tickets,60.52
+24-11-2024,Shopping,Household items,169.56
+18-12-2024,Education,Books,95.87
+21-11-2024,Bills,Internet bill,184.83
+22-10-2024,Food,Groceries,22.85
+20-12-2024,Transport,Taxi,4.86
+22-11-2024,Food,Groceries,16.63
+19-10-2024,Food,Lunch,42.66
+02-01-2025,Education,School supplies,126.82
+18-10-2024,Transport,Bus fare,18.33
+02-11-2024,Bills,Internet bill,172.09
+27-12-2024,Education,Online course,19.37
+04-11-2024,Transport,Parking,15.9
+09-10-2024,Bills,Water bill,90.15
+30-11-2024,Bills,Water bill,66.66
+18-10-2024,Transport,Fuel,4.45
+14-11-2024,Transport,Taxi,4.85
+05-11-2024,Entertainment,Games,45.55
+03-01-2025,Food,Snacks,47.1
+24-10-2024,Entertainment,Games,56.48
+10-12-2024,Shopping,Clothing,248.58
+13-11-2024,Shopping,Household items,205.62
+14-11-2024,Transport,Fuel,7.57
+24-10-2024,Shopping,Household items,33.12
+28-11-2024,Entertainment,Movie tickets,99.66
+28-10-2024,Food,Groceries,48.72
+13-11-2024,Bills,Electricity bill,173.7
+09-11-2024,Education,Online course,119.33
+04-11-2024,Transport,Parking,10.56
+29-12-2024,Shopping,Clothing,15.78
+02-11-2024,Bills,Phone bill,192.92
+31-12-2024,Healthcare,Doctor visit,52.11
+12-10-2024,Education,Online course,115.95
+18-10-2024,Bills,Water bill,125.12
+25-12-2024,Education,Books,134.36
+08-12-2024,Transport,Fuel,6.08
+08-12-2024,Shopping,Household items,282.56
+01-01-2025,Transport,Fuel,10.11
+20-11-2024,Transport,Fuel,7.41
+18-12-2024,Education,School supplies,89.29
+18-10-2024,Transport,Bus fare,17.06
+30-10-2024,Food,Groceries,35.99
+28-10-2024,Healthcare,Health checkup,30.61
+18-10-2024,Education,Online course,71.68
+28-12-2024,Shopping,Household items,218.94
+04-12-2024,Shopping,Household items,259.64
+10-12-2024,Healthcare,Doctor visit,75.55
+13-10-2024,Shopping,Electronics,113.53
+19-11-2024,Food,Snacks,24.43
+27-12-2024,Education,School supplies,77.01
+08-12-2024,Entertainment,Movie tickets,49.66
+23-12-2024,Education,Books,48.2
+07-10-2024,Food,Groceries,43.63
+03-11-2024,Healthcare,Health checkup,117.11
+20-12-2024,Entertainment,Concert,89.73
+23-11-2024,Healthcare,Medicine,144.59
+17-12-2024,Shopping,Clothing,87.41
+28-10-2024,Healthcare,Health checkup,101.39
+19-11-2024,Food,Snacks,15.88
+08-12-2024,Shopping,Household items,282.06
+20-12-2024,Entertainment,Streaming subscription,55.25
+12-12-2024,Bills,Water bill,83.71
+31-12-2024,Shopping,Clothing,237.88
+23-10-2024,Transport,Taxi,6.39
+09-11-2024,Bills,Water bill,74.18
+28-12-2024,Shopping,Gifts,197.75
+12-10-2024,Healthcare,Health checkup,114.57
+15-11-2024,Shopping,Electronics,114.32
+03-01-2025,Food,Dinner,38.4
+06-12-2024,Entertainment,Games,22.26
+27-10-2024,Transport,Fuel,5.24
+29-11-2024,Education,School supplies,112.21
+05-12-2024,Education,Online course,38.51
+22-10-2024,Transport,Parking,10.84
+14-10-2024,Transport,Taxi,17.62
+25-12-2024,Education,School supplies,73.18
+26-11-2024,Healthcare,Doctor visit,33.69
+11-12-2024,Shopping,Gifts,121.58
+24-10-2024,Bills,Internet bill,99.95
+01-11-2024,Bills,Phone bill,33.46
+14-11-2024,Transport,Taxi,10.49
+20-11-2024,Food,Dinner,9.45
+06-10-2024,Transport,Fuel,11.9
+26-11-2024,Transport,Bus fare,5.42
+05-11-2024,Transport,Bus fare,10.02
+09-11-2024,Entertainment,Movie tickets,44.17
+31-10-2024,Transport,Parking,17.43
+10-11-2024,Transport,Fuel,19.24
+06-12-2024,Entertainment,Movie tickets,41.35
+09-11-2024,Transport,Taxi,14.62
+06-10-2024,Food,Snacks,25.03
+10-12-2024,Entertainment,Concert,75.74
+24-12-2024,Food,Dinner,11.84
+08-10-2024,Healthcare,Medicine,79.14
+19-12-2024,Shopping,Household items,32.48
+17-10-2024,Food,Dinner,30.77
+13-11-2024,Food,Groceries,33.15
+02-11-2024,Entertainment,Concert,97.67
+24-11-2024,Shopping,Household items,43.16
+07-11-2024,Education,Online course,46.79
+23-10-2024,Bills,Water bill,183.84
+29-11-2024,Transport,Bus fare,8.95
+01-11-2024,Shopping,Household items,285.92
+03-01-2025,Entertainment,Games,25.35
+29-11-2024,Food,Snacks,12.17
+03-01-2025,Shopping,Clothing,266.45
+28-10-2024,Entertainment,Movie tickets,58.28
+14-10-2024,Education,School supplies,36.18
+15-12-2024,Bills,Internet bill,102.98
+12-12-2024,Education,Books,127.34
+08-10-2024,Bills,Water bill,101.45
+07-10-2024,Education,Books,84.51
+27-12-2024,Shopping,Gifts,83.78
+16-10-2024,Shopping,Gifts,231.39
+30-11-2024,Entertainment,Games,45.01
+13-10-2024,Education,Books,57.87
+19-12-2024,Healthcare,Health checkup,36.24
+29-10-2024,Entertainment,Games,39.8
+07-11-2024,Bills,Electricity bill,60.24
+02-11-2024,Shopping,Clothing,17.54
+27-12-2024,Transport,Parking,4.05
+30-10-2024,Shopping,Household items,243.53
+30-10-2024,Entertainment,Movie tickets,66.16
+28-12-2024,Education,Online course,61.73
+28-12-2024,Food,Groceries,32.99
+08-10-2024,Bills,Internet bill,148.8
+11-12-2024,Transport,Taxi,11.4
+10-11-2024,Education,School supplies,137.18
+30-11-2024,Transport,Parking,11.75
+29-11-2024,Healthcare,Health checkup,68.96
+24-12-2024,Shopping,Household items,84.27
+20-12-2024,Food,Snacks,40.03
+02-11-2024,Education,Online course,100.63
+06-10-2024,Bills,Internet bill,96.83
+28-11-2024,Shopping,Gifts,207.74
+05-12-2024,Bills,Water bill,100.45
+04-12-2024,Healthcare,Medicine,94.51
+08-11-2024,Food,Coffee,26.42
+20-11-2024,Shopping,Electronics,98.46
+27-12-2024,Entertainment,Streaming subscription,79.43
+14-10-2024,Shopping,Clothing,114.91
+01-11-2024,Shopping,Electronics,59.56
+19-11-2024,Bills,Water bill,36.29
+22-10-2024,Bills,Internet bill,40.32
+29-11-2024,Shopping,Clothing,105.79
+09-10-2024,Entertainment,Games,68.79
+09-12-2024,Education,School supplies,115.25
+27-10-2024,Shopping,Household items,58.23
+03-11-2024,Entertainment,Concert,31.74
+15-10-2024,Bills,Water bill,123.82
+12-10-2024,Healthcare,Doctor visit,103.23
+23-10-2024,Education,School supplies,31.53
+24-10-2024,Shopping,Electronics,117.55
+07-10-2024,Entertainment,Streaming subscription,75.33
+29-11-2024,Food,Coffee,37.9
+16-11-2024,Food,Lunch,13.99
+19-10-2024,Bills,Water bill,93.71
+28-11-2024,Bills,Water bill,33.53
+27-10-2024,Food,Snacks,47.91
+02-01-2025,Entertainment,Games,28.14
+13-11-2024,Transport,Bus fare,14.26
+02-01-2025,Education,School supplies,75.88
+26-12-2024,Entertainment,Concert,28.58
+25-10-2024,Education,Online course,35.91
+29-12-2024,Bills,Phone bill,46.22
+28-10-2024,Entertainment,Movie tickets,40.33
+17-10-2024,Food,Dinner,22.11
+21-10-2024,Bills,Phone bill,91.73
+01-11-2024,Education,Books,149.47
+19-11-2024,Food,Coffee,43.27
+31-10-2024,Food,Groceries,47.14
+26-10-2024,Bills,Electricity bill,76.87
+16-10-2024,Education,School supplies,133.05
+27-11-2024,Education,Books,83.61
+28-11-2024,Education,School supplies,51.67
+30-10-2024,Shopping,Gifts,187.35
+28-12-2024,Education,School supplies,28.52
+06-12-2024,Entertainment,Streaming subscription,18.1
+01-01-2025,Entertainment,Streaming subscription,53.69
+01-01-2025,Education,Online course,72.55
+28-12-2024,Transport,Taxi,12.09
+02-01-2025,Transport,Taxi,3.27
+20-12-2024,Bills,Electricity bill,165.16
+26-11-2024,Education,Online course,135.87
+05-12-2024,Bills,Electricity bill,193.59
+18-11-2024,Education,Online course,90.18
+09-12-2024,Healthcare,Doctor visit,69.93
+28-10-2024,Transport,Taxi,16.85
+23-12-2024,Bills,Water bill,77.61
+01-12-2024,Healthcare,Health checkup,116.03
+10-11-2024,Shopping,Gifts,59.08
+10-12-2024,Entertainment,Movie tickets,58.04
+12-10-2024,Healthcare,Doctor visit,148.86
+13-11-2024,Bills,Water bill,164.42
+07-10-2024,Entertainment,Games,76.13
+27-10-2024,Bills,Phone bill,168.02
+20-11-2024,Food,Coffee,49.94
+29-12-2024,Entertainment,Streaming subscription,22.88
+07-11-2024,Entertainment,Games,18.45
+02-12-2024,Healthcare,Health checkup,100.76
+29-10-2024,Transport,Fuel,14.53
+20-11-2024,Healthcare,Medicine,24.09
+28-11-2024,Bills,Electricity bill,90.89
+29-10-2024,Food,Dinner,35.33
+12-11-2024,Transport,Parking,7.72
+23-11-2024,Food,Snacks,38.15
+10-11-2024,Food,Snacks,36.35
+14-11-2024,Food,Lunch,9.03
+24-12-2024,Healthcare,Doctor visit,115.08
+28-11-2024,Transport,Fuel,19.52
+05-12-2024,Education,Online course,39.31
+30-11-2024,Entertainment,Concert,70.85
+22-11-2024,Food,Lunch,26.32
+14-11-2024,Bills,Electricity bill,126.52
+25-11-2024,Education,School supplies,144.28
+29-10-2024,Entertainment,Movie tickets,78.82
+27-11-2024,Bills,Phone bill,180.12
+05-12-2024,Education,Online course,109.34
+18-11-2024,Bills,Electricity bill,99.7
+01-11-2024,Bills,Water bill,61.06
+13-11-2024,Bills,Electricity bill,198.31
+09-12-2024,Transport,Bus fare,18.93
+04-12-2024,Transport,Taxi,12.39
+29-12-2024,Bills,Internet bill,107.68
+11-11-2024,Food,Coffee,8.41
+17-11-2024,Bills,Internet bill,86.88
+14-11-2024,Transport,Taxi,16.78
+01-11-2024,Healthcare,Medicine,74.34
+18-12-2024,Food,Snacks,38.11
+12-11-2024,Education,Online course,73.79
+05-12-2024,Healthcare,Medicine,39.53
+02-01-2025,Shopping,Household items,294.19
+26-12-2024,Shopping,Electronics,39.22
+26-10-2024,Shopping,Clothing,185.17
+17-12-2024,Education,Books,16.18
+28-11-2024,Food,Snacks,7.62
+03-12-2024,Food,Snacks,25.61
+02-01-2025,Bills,Electricity bill,112.87
+06-11-2024,Transport,Parking,14.08
+26-10-2024,Transport,Fuel,9.51
+17-10-2024,Bills,Phone bill,85.63
+19-11-2024,Food,Snacks,15.26
+21-10-2024,Entertainment,Movie tickets,45.13
+14-11-2024,Bills,Internet bill,170.9
+23-12-2024,Entertainment,Movie tickets,91.52
+29-10-2024,Healthcare,Medicine,72.17
+26-12-2024,Shopping,Clothing,243.37
+20-12-2024,Education,Books,136.01
+05-01-2025,Food,Breakfast,200.00
