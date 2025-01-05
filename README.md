@@ -1,7 +1,7 @@
 # Personal Expense Tracker
 
 This is a simple Python-based command-line application that helps you track your personal expenses. You can record expenses, view past expenses, see a summary of monthly expenses, and visualize your data through charts. This project is submitted as part of the CCE IIT Mandi Minor in CSE program, under the subject code CSE101.
----
+
 
 ## Features
 
